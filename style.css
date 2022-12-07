@@ -1,0 +1,33 @@
+/*
+primary; #B1B2FF
+secundary; #AAC4FF
+ligth; #D2DAFF
+info; #EEF1FF
+*/
+.bg-primary{
+    background-color: #B1B2FF;
+}
+.text-light{
+    color: #D2DAFF;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-secondary{
+    color: #AAC4FF;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #D2DAFF;
+}
+.text-primary{
+    color: #B1B2FF;
+}
+.text-white{
+    color: white;
+}
